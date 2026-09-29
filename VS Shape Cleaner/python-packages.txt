@@ -1,0 +1,3 @@
+This program needs tkinterdnd2 and tkinter packages:
+
+python -m pip install tkinterdnd2
